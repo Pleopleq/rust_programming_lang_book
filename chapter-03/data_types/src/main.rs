@@ -32,7 +32,7 @@ fn main() {
     // COMPOUND TYPES
     // Compound types can group multiple values into one type
     // Exist two in Rust: Tuples and arrays.
-
+    
 
     println!("Hello, world!");
 }
